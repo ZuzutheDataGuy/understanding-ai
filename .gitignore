@@ -1,0 +1,21 @@
+# OS files
+.DS_Store    
+Thumbs.db       
+
+# IDE / editor files
+.vscode/       
+.idea/          
+*.sublime-workspace
+*.sublime-project
+
+# Backup / temporary files
+*.tmp
+*.bak
+*.swp          
+
+# Python or other code caches (if any)
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/

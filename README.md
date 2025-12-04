@@ -19,25 +19,25 @@ This repository contains a **comprehensive knowledge base on Artificial Intellig
 ## Repository Structure
 
 Understanding-AI/
-  README.md
-  SUMMARY.md
+- README.md
+- SUMMARY.md
 
   introduction/
-    chapter1-what-is-ai.md
-    chapter2-importance-of-ai.md
+    - chapter1-what-is-ai.md
+    - chapter2-importance-of-ai.md
 
   concepts/
-    chapter3-key-concepts.md
-    chapter4-ai-techniques.md
-    chapter5-ai-applications.md
-    chapter6-challenges-ethics.md
+    - chapter3-key-concepts.md
+    - chapter4-ai-techniques.md
+    - chapter5-ai-applications.md
+    - chapter6-challenges-ethics.md
 
   references/
-    chapter7-resources.md
-    chapter8-glossary.md
+    - chapter7-resources.md
+    - chapter8-glossary.md
 
   assets/
-    diagrams.png      
+    - diagrams.png      
 
 - Chapters are organized by topic for easy navigation.  
 - Assets folder contains diagrams and images used in the knowledge base.  

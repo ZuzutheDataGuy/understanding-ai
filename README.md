@@ -19,8 +19,8 @@ This repository contains a **comprehensive knowledge base on Artificial Intellig
 ## Repository Structure
 
 Understanding-AI/
-│
 ├── README.md
+├── SUMMARY.md
 ├── introduction/
 │   ├── chapter1-what-is-ai.md        
 │   └── chapter2-importance-of-ai.md  

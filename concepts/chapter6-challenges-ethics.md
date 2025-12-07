@@ -8,106 +8,70 @@ As Artificial Intelligence (AI) systems become more advanced and widely used, th
 ## Key Challenges in AI
 
 ### 1. Bias in AI Systems
-AI systems learn from historical data, which can contain human bias. If this bias is not addressed, AI may unfairly disadvantage certain groups.
-
+- AI systems learn from data, which can reflect human biases.
 - **Examples of bias:**
-  - Hiring systems favoring one demographic over others.
+  - Recruitment AI favoring certain demographics.
   - Facial recognition systems performing poorly on certain skin tones.
-- **Impact:** Discrimination, unfair decisions, and reduced trust.
-- **Mitigation:** Use diverse datasets, regularly audit models, and apply fairness checks.
-
----
+- **Solution:** Use diverse, representative datasets and regularly audit models.
 
 ### 2. Privacy Concerns
-AI often relies on large amounts of personal data, raising concerns about privacy and data protection.
-
+- AI systems often rely on large amounts of personal data.
 - **Risks include:**
   - Unauthorized data collection.
-  - Increased surveillance without user consent.
-- **Example:** Voice assistants continuously collecting speech data.
-- **Mitigation:** Strong data governance, anonymisation, and compliance with data protection laws such as GDPR.
-
----
+  - Surveillance without consent.
+- **Solution:** Implement strong data protection measures and comply with privacy regulations (e.g., GDPR).
 
 ### 3. Security Risks
-AI systems can be vulnerable to manipulation and cyberattacks, which may cause incorrect or unsafe behaviour.
-
-- **Adversarial attacks:** Small, intentional changes to input data can deceive AI systems.
-  - *Example:* An image classification system may fail to recognise a stop sign if a few pixels or stickers are added, even though humans still recognise it easily.
-- **Model exploitation:** Attackers can study system outputs to exploit weaknesses.
-  - *Example:* Spam filters can be bypassed by adding spaces or symbols in words (e.g., “fr*ee m0ney”), allowing spam messages through.
-- **Data poisoning:** Malicious data may be introduced during training to influence decision-making.
-
-**Mitigation strategies include** secure training environments, regular testing, access control, and continuous monitoring.
-
----
+- AI can be vulnerable to attacks:
+  - **Adversarial attacks:** Input data is manipulated to trick AI models.
+  - **Model theft:** Stealing AI models or sensitive data.
+- **Solution:** Use robust security practices and continuous monitoring.
 
 ### 4. Transparency and Explainability
-Many AI models operate as “black boxes,” meaning their decision-making process is hard to understand.
-
-- Lack of transparency reduces trust.
-- Difficult to explain decisions in healthcare, finance, or law enforcement.
-- **Mitigation:** Develop Explainable AI (XAI) techniques that show how and why decisions are made.
-
----
+- Many AI systems, especially deep learning models, are **black boxes**.
+- It can be hard to understand how decisions are made.
+- **Solution:** Develop explainable AI (XAI) to make decisions interpretable.
 
 ### 5. Technical Limitations
-Despite advances, AI still has limitations.
-
-- Weak understanding of context and common sense.
-- Difficulty learning outside trained scenarios.
-- High dependence on data quality.
+- AI struggles with:
+  - Common sense reasoning.
+  - Understanding context like humans.
+  - Transfer learning across very different tasks.
 
 ---
 
 ## Ethical Considerations
 
 ### 1. Accountability
-Determining responsibility when AI systems make mistakes is complex.
-
-- **Example:** Who is responsible if a self-driving car causes an accident?
-- Organisations must clearly define accountability for AI-driven decisions.
-
----
+- Who is responsible when AI makes a mistake?
+  - Example: Autonomous vehicle causes an accident.
+- Organizations must define accountability for AI decisions.
 
 ### 2. Job Displacement
-Automation through AI can lead to job losses in certain sectors.
+- AI can automate tasks, potentially displacing workers.
+- **Solution:** Reskill employees and create policies for fair transition.
 
-- **Impact:** Economic disruption and inequality.
-- **Mitigation:** Reskilling programs and responsible workforce transitions.
-
----
-
-### 3. Fairness and Inclusion
-AI should treat all individuals fairly and equally.
-
-- Biased AI can reinforce social inequalities.
-- Ongoing monitoring and ethical guidelines are essential.
-
----
+### 3. Fairness
+- AI should **treat all individuals fairly** and avoid discrimination.
+- Regular audits, unbiased data, and ethical guidelines are essential.
 
 ### 4. Human Oversight
-AI should support, not fully replace, human judgement.
-
-- Critical areas like healthcare and justice must maintain human review.
-- Humans should be able to override AI decisions when necessary.
-
----
+- AI should **assist, not replace**, human judgment in critical areas like healthcare or law enforcement.
+- Maintain mechanisms for human intervention when needed.
 
 ### 5. Societal Impact
-AI influences public opinion, communication, and access to information.
-
-- **Example:** Recommendation systems shaping news consumption.
+- AI can influence society in both positive and negative ways.
+  - Example: Recommendation algorithms affecting opinions on social media.
 - Developers must consider long-term societal consequences.
 
 ---
 
 ## Case Studies
 
-- **Biased Hiring AI:** A recruitment system favoured male candidates due to biased historical data.
-- **Facial Recognition Errors:** Misidentification led to wrongful accusations, highlighting the need for accuracy and oversight.
+- **Bias in Hiring AI:** A company’s AI recruitment tool was found to favor male candidates because it learned from historical data biased towards men.
+- **Facial Recognition Errors:** Some AI systems misidentify individuals, leading to wrongful arrests or misclassification.
 
 ---
 
 ## Summary
-This chapter highlighted the key **challenges and ethical issues** associated with AI, including bias, privacy risks, security vulnerabilities, and societal impact. Addressing these concerns through transparency, fairness, accountability, and human oversight is essential for responsible AI development.
+Chapter 6 explored the major **challenges and ethical concerns in AI**, including bias, privacy, accountability, and societal impact. Ethical AI development requires fairness, transparency, security, and human oversight. Addressing these challenges ensures AI benefits humanity without causing harm.

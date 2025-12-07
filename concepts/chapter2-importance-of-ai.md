@@ -17,3 +17,10 @@ AI is increasingly framed as a tool for development goals, including improved pu
 
 ## 2.6 Ethics and governance
 As AI becomes embedded in high-impact decisions, ethical and regulatory guidance is no longer optional. International principles emphasise human rights, dignity, transparency, fairness, and meaningful human oversight. Practical frameworks also help organisations identify and manage AI risks across the system lifecycle. These safeguards shape whether AI delivers broad benefits or amplifies existing harms.
+## References
+- The 2024 AI Index Report | Stanford HAI  
+- Economic potential of generative AI | McKinsey  
+- The Future of Jobs Report 2025 | World Economic Forum  
+- Developing AI for development  
+- Ethics of Artificial Intelligence | UNESCO  
+- AI Risk Management Framework | NIST  

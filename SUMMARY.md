@@ -10,6 +10,7 @@ Zuhayr Adams worked on:
 - Setting up the repository structure
 - Creating and updating the README.md
 - Adding the `.gitignore` file
+- Adding more Content in Chapter 7: Resources
 - Creating and maintaining the SUMMARY.md file
 
 Sizo Sithole worked on:
@@ -21,6 +22,9 @@ Chezlin Ezau worked on:
 - Chapter 3: Key Concepts of AI
 - Chapter 6: Challenges and Ethics
 - Chapter 7: Resources
+- Reviewed and enhanced chapters written by other collaborators.
+- Handled complex branch merges and conflict resolution.
+
 
 All members contributed to:
 - Chapter 8: Glossary
@@ -48,12 +52,13 @@ We used Git and GitHub to work as a team in an organized way.
 
 During the project, we faced a few challenges:
 
-- Merge conflicts when multiple people edited similar files.
-- Accidentally deleting branches and needing to restore work.
-- Reverting commits when mistakes were made.
-- Making sure formatting was consistent across all chapters.
+- **Merge conflicts** when multiple edits happened in the same files.
+- **Accidental reverts** of Chapter 7, which required multiple corrections.
+- **Folder restructuring issues**, including renaming directories.
+- Coordinating work across multiple branches without overwriting content.
 
-These challenges helped us understand Git and GitHub better.
+These challenges were resolved through communication, careful reviews, and improved Git workflow discipline.
+
 
 ---
 
@@ -66,6 +71,7 @@ From this project, we learned:
 - How to review teammates’ work properly.
 - How to fix mistakes using Git.
 - How collaboration works in real-life development projects.
+- How to use Issues for suggestions and feedback
 
 ---
 

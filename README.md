@@ -45,7 +45,7 @@ Understanding-AI/
 ---
 
 ## How to Navigate
-- Open chapters in the `knowledge-base/` folder.  
+- Open chapters in the `undestanding-ai/` folder.  
 - Use links at the end of each chapter to move between sections.  
 - Refer to `references/chapter7-resources.md` for further learning materials.  
 

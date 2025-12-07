@@ -36,9 +36,6 @@ Understanding-AI/
     - chapter7-resources.md
     - chapter8-glossary.md
 
-  assets/
-    - diagrams.png      
-
 - Chapters are organized by topic for easy navigation.  
 - Assets folder contains diagrams and images used in the knowledge base.  
 

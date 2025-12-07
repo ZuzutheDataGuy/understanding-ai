@@ -6,6 +6,7 @@ This project was built by three learners working together on different chapters.
 
 Zuhayr Adams worked on:
 - Chapter 1: What is Artificial Intelligence
+- Chapter 2: Importance of Artificial Intelligence
 - Chapter 4: AI Techniques
 - Setting up the repository structure
 - Creating and updating the README.md
@@ -13,20 +14,17 @@ Zuhayr Adams worked on:
 - Adding more Content in Chapter 7: Resources
 - Creating and maintaining the SUMMARY.md file
 
-Sizo Sithole worked on:
-- Chapter 2: Importance of Artificial Intelligence
-- Chapter 5: AI Applications
-- Improving formatting and adding references to application content
-
 Chezlin Ezau worked on:
 - Chapter 3: Key Concepts of AI
+- Chapter 5: AI Applications
 - Chapter 6: Challenges and Ethics
 - Chapter 7: Resources
 - Reviewed and enhanced chapters written by other collaborators.
+- Improving formatting and adding references to application content
 - Handled complex branch merges and conflict resolution.
 
 
-All members contributed to:
+Both members contributed to:
 - Chapter 8: Glossary
 - Reviewing each other’s work
 - Merging pull requests
@@ -52,8 +50,8 @@ We used Git and GitHub to work as a team in an organized way.
 
 During the project, we faced a few challenges:
 
-- **Merge conflicts** when multiple edits happened in the same files.
-- **Accidental reverts** of Chapter 7, which required multiple corrections.
+- **Merge conflicts** when multiple edits happened in the same files(Chapter 6,7,8 had alot of conflicts to resolve).
+- **Accidental reverts** of Chapter 7,8 which required multiple corrections.
 - **Folder restructuring issues**, including renaming directories.
 - Coordinating work across multiple branches without overwriting content.
 

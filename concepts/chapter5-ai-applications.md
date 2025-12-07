@@ -1,4 +1,4 @@
-```md
+md
 ## Top 3 AI application fields (most established + high impact)
 
 1. **Enterprise productivity and automation (genAI + agentic AI)**  
@@ -19,4 +19,3 @@
 
 2. **AI for climate and clean energy systems**  
    Beyond forecasting, AI is increasingly used to optimize grids, reduce energy waste, and even improve exploration for cleaner energy sources like geothermal. Recent climate-policy and real-world examples show this shifting from concept to applied impact.
-```

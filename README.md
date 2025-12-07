@@ -1,7 +1,7 @@
 # Understanding Artificial Intelligence
 
 ## Project Overview
-This repository contains a **comprehensive knowledge base on Artificial Intelligence (AI)**, collaboratively created by three learners. The aim is to provide a structured, beginner-friendly guide to AI concepts, techniques, applications, and ethical considerations, while demonstrating effective Git and GitHub collaboration.
+This repository contains a **comprehensive knowledge base on Artificial Intelligence (AI)**, collaboratively created by Chezlin Azau and Zuhayr Adams. The aim is to provide a structured, beginner-friendly guide to AI concepts, techniques, applications, and ethical considerations, while demonstrating effective Git and GitHub collaboration.
 
 ---
 

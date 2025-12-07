@@ -49,9 +49,9 @@ Understanding-AI/
 ---
 
 ## Contributors
-- **Zuhayr Adams** – Chapter 1, Chapter 4  
-- **Sizo Sithole** – Chapter 2, Chapter 5  
-- **Chezlin Ezau** – Chapter 3, Chapter 6  
+- **Zuhayr Adams** – Chapter 1,Chapter 2 Chapter 4  
+- **Sizo Sithole** –  
+- **Chezlin Ezau** – Chapter 3, Chapter 5, Chapter 6 
 - **All Collaborators** – Chapters 7 (Resources) & 8 (Glossary), reviews, and final edits  
 
 ---
